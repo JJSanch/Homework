@@ -1,6 +1,6 @@
 # Jonathan Sanchez
 
-## Hello!  I am an early career Data Analyst currently upskilling through Savvy Coders Data Analytics + Python bootcamp, and I work in the biotech industry.  Currently located in SoCal
+## Hello!  I am an early career Data Analyst currently upskilling through Savvy Coders Data Analytics + Python bootcamp, and I work in the biotech industry.  Currently located in Southern California.
 
 ### List of Goals for this Data Analytics course...
      -  Gain an understanding of the full Data Analytics Lifecycle.
