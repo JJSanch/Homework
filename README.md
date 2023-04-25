@@ -9,7 +9,11 @@
      -  Discover personal strengths and weaknesses with the Analytics Lifecycle.
      -  Develop a roadmap to becoming an Agile fluent Data Analyst, and practice the skillset(s) laid out by Savvy Coders on a daily basis.
 
+
+Intersting Python Link...
 ### https://www.codebaseball.com/
+
+
 
 ![Image link for display of this md](https://www.thisiscolossal.com/wp-content/uploads/2017/12/excel-7.jpg)
 
