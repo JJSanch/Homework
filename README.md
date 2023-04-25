@@ -1,4 +1,4 @@
-# Jonathan
+# Jonathan Sanchez
 
 ## Hello!  I am an early career Data Analyst currently upskilling through Savvy Coders Data Analytics + Python bootcamp, and I work in the biotech industry.  Currently located in SoCal
 
