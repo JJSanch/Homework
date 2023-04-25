@@ -11,6 +11,6 @@
 
 ### https://www.codebaseball.com/
 
-![https://www.thisiscolossal.com/wp-content/uploads/2017/12/excel-7.jpg]
+![Image link for display of this md](https://www.thisiscolossal.com/wp-content/uploads/2017/12/excel-7.jpg)
 
 ### This image is of a Japanese artist, Tatsuo Horiuchi, who is an excel artist.  This image is inspiring as to me it represents Analytics and its tools as an artform.
